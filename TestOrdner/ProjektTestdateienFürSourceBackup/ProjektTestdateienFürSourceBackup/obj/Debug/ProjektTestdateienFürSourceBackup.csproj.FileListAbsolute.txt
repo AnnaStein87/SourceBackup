@@ -1,0 +1,7 @@
+c:\users\i.smemann\documents\visual studio 2015\Projects\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\bin\Debug\ProjektTestdateienFürSourceBackup.exe.config
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\bin\Debug\ProjektTestdateienFürSourceBackup.exe.config
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\bin\Debug\ProjektTestdateienFürSourceBackup.exe
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\bin\Debug\ProjektTestdateienFürSourceBackup.pdb
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\obj\Debug\ProjektTestdateienFürSourceBackup.csprojResolveAssemblyReference.cache
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\obj\Debug\ProjektTestdateienFürSourceBackup.exe
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\TestOrdner\ProjektTestdateienFürSourceBackup\ProjektTestdateienFürSourceBackup\obj\Debug\ProjektTestdateienFürSourceBackup.pdb

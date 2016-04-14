@@ -1,0 +1,7 @@
+include pattern *.*
+exclude pattern *.bak
+exclude pattern *.exe
+exclude pattern *.dll
+exclude pattern *.zip
+include directory planXchange\obj\
+exclude pattern *.dll

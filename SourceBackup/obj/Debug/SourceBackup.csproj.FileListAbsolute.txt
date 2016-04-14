@@ -1,0 +1,6 @@
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\bin\Debug\SourceBackup.exe.config
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\bin\Debug\SourceBackup.exe
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\bin\Debug\SourceBackup.pdb
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\obj\Debug\SourceBackup.csprojResolveAssemblyReference.cache
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\obj\Debug\SourceBackup.exe
+C:\Users\i.smemann\Documents\Visual Studio 2015\Projects\SourceBackup\SourceBackup\obj\Debug\SourceBackup.pdb
